@@ -1,0 +1,63 @@
+body {
+  font: 120% / 1.414 "Open Sans", "Roboto", arial, sans-serif;
+  background: #191c24;
+}
+
+body{
+  -webkit-transition: all .25s ease-in;
+  transition: all .25s ease-in;
+}
+  .vl {
+  border-left: 2px solid gray;
+  height: 1000px;
+  position: absolute;
+  left: 23%;
+  margin-left: -3px;
+  top: 0;
+}
+.p{
+	color: #6c7190;
+}
+.btn{
+  padding: .5rem 3.89rem;
+  font-size: .95rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #111;
+  background:#fffff3;
+  border-radius: 2.1875rem;
+  position: relative;
+  left: 400px;
+}
+.btn:focus, .btn:hover {
+  background: #D60000;}
+
+.ahla,.tapez,.names,.btn
+{
+	position: relative;
+  left:500px;
+  bottom: 500px;
+}
+.p{
+  padding: .2rem 3.89rem;
+  font-size: .95rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #6c7190;
+  background:#fffff3;
+  border-radius: 2.1875rem;
+  	position: relative;
+  top:50px;
+}
+.p:focus, .p:hover { background: #D60000;}
+.logo{
+	position: relative;
+	left: 40px;
+}
+.pr{
+	position: relative;
+	left: 55px;
+	color: #6c7190;
+	top: 12px;
+}
+
